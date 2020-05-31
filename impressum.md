@@ -11,7 +11,7 @@ Premstätterstraße 10,
 8054 Seiersberg,
 Österreich
 
-E-Mail: mail@cardanolab.at
+E-Mail: mail@iotalab.at
 
 Quelle: Erstellt mit dem Impressum Generator von [https://www.firmenwebseiten.at](https://www.firmenwebseiten.at/) in Kooperation mit [https://www.limegreen.at](https://www.limegreen.at)
 
