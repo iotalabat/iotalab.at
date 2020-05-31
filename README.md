@@ -2,7 +2,7 @@
 
 This is the webpage of iotalab.at.
 
-![](ada.png)
+![](logo.png)
 
 Iotalab.at runs an IRI iota node on https://node.iotalab.at.
 
